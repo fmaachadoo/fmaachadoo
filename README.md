@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on: **projects that impact people's lives.**
 
-- 💬 Ask me about: **Python and Code Optimization**
+- 💬 Ask me about: **Python and cool algorithms.**
 
 - 📫 How to reach me: **filipe__machado@hotmail.com**
 
